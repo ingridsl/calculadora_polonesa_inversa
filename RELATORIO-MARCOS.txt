@@ -1,0 +1,11 @@
+23/06/2015|1 hora|estudar aulas e laboratórios relacionados e programar| Foram pesquisadas informações úteis de conteúdos que pudessem servir beneficamente para a execução do trabalho.
+23/06/2015|1 hora|especificar módulo|Início da especificação dos módulos do programa
+23/06/2015|2 horas|projetar| Foi projetado o código do módulo principal.
+23/06/2015|2 horas|codificar módulo| Iniciou-se a programação do módulo referente à notação polonesa reversa, mais especificamente na leitura correta das expressões vindas de arquivos texto. O módulo para a pilha foi reutilizado de trabalhos anteriores, apenas ajustou-se algumas especificidades.
+24/06/2015|2 horas|codificar módulo| Continuou-se a programação do módulo referente a notação polonesa reversa, mais especifimente no processo de validação da expressão. Para isso, foi utilizado como auxílio o trabalho anterior (validação da parentização).
+25/06/2015|3 horas|pesquisar e programar| Foi feita uma pesquisa sobre a conversão para notação polonesa e continuou-se a programação do módulo referente a notação polonesa reversa, aplicando as informações coletadas.
+25/06/2015|1 horas|codificar módulo| Continuou-se a programação do módulo referente a notação polonesa reversa, mais especifimente no processo de cálculo da expressão.
+26/06/2015|1 hora|codificar módulo| Revisão do código relativo à notação polonesa reversa
+27/06/2015|1 hora|codificar módulo| Ajustes de funções que estavam causando erros.
+27/06/2015|2 horas|redigir casos de teste| Foram feitos ajustes finais nos testes, para que englobassem o máximo possível do código.
+27/06/2015|1 hora|revisar especificações| Revisão e complementação das especificações previamente criadas.

@@ -1,0 +1,8 @@
+23/06/2015|2 horas|Estudar aulas e laboratórios relacionados|Foram estudados tópicos necessários para a realização do projeto, como a aplicação de pilhas em uma notação polonesa reversa. Foram revistos os módulos de pilha utilizados em outros trabalhos e laboratórios, visto que os mesmos serão reutilizados neste projeto.
+24/05/2015|1 hora|projetar|Foram projetadas partes importantes dos módulos do projeto
+25/06/2015|3 horas|Documentar com Doxygen|Início do estudo da ferramenta Doxygen para gerar um documento online do projeto estilo Javadoc, e início da adaptação dos comentários das funções.
+26/06/2015|2 horas|especificar as funções|Funções que foram criadas para o programa foram especificadas
+27/06/2015|3 horas|Documentar com Doxygen|Finalização da configuração do 'Doxyfile' e das especificações das funções para gerar um documento online com a ferramenta Doxygen
+27/06/2015|1 hora|Revisar as especificações|Foram revisadas as especificações das funções
+28/06/2015|2 horas|Rodar os splint e retirar warnings|Foi rodado o splint para a análise estática do programa, bem como foram retirados os warnings apontados pelo mesmo
+28/06/2015|1 hora|revisar código do módulo|Códigos dos módulos foram revisados

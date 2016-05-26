@@ -1,0 +1,11 @@
+19/06/2015|1 hora |estudar aulas e laboratórios relacionados| Foi pesquisado mais a fundo determinados passos exigidos pelo trabalho que não se possuia total compreensão e buscou-se informações úteis de conteúdos já vistos em semestres anteriores que pudessem servir benéficamente para a execução do trabalho.
+23/06/2015|2 horas|projetar| Foram projetadas partes adicionais do projeto.
+24/06/2015|1 hora |especificar as funções | funções que careciam de especificações tiveram as mesmas adicionadas.
+24/06/2015|2 horas|projetar| Foram projetadas partes adicionais do projeto.
+24/06/2015|1 hora|revisar projeto|Foram revisados projetos feitos anteriormente
+25/06/2015|1 hora | instrumentar via gcov |foi feito o teste preliminar da utilização do gcov.
+25/06/2015|1 hora |projetar| Foram projetadas partes adicionais do projeto.
+25/06/2015|1 hora |redigir casos de teste| determinados conjuntos de casos de teste foram gerados
+26/06/2015|2 horas|projetar| Foram projetadas partes adicionais do projeto.
+27/06/2015|2 horas| realizar os testes | foram realizados uma sequencia de testes até que os resultados fossem dentro do esperado e satisfizessem os 80% minimos esperados pelo gcov
+27/06/2015|1 hora | revisa código do módulo | o código do módulo foi revisado de forma a remover menos erros.
